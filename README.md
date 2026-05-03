@@ -19,17 +19,6 @@ Each user needs to create a webhook in **their own Discord server**:
 
 ---
 
-## Updating the app
-
-To update to a newer version:
-1. Download the new `discord_map_vote.html`
-2. Go to your GitHub repository
-3. Click the existing `index.html` file → pencil icon → paste new content → **Commit changes**
-
-GitHub Pages will update within a minute.
-
----
-
 ## Notes
 
 - **Max 10 maps** per vote (Discord poll limit)
