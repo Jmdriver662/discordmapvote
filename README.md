@@ -27,3 +27,4 @@ Each user needs to create a webhook in **their own Discord server**:
 - The poll duration can be 1 hour up to 3 days
 - All settings are auto-saved in the browser — they'll be there on the next visit
 - Works best in Chrome, Firefox, Edge, and Safari (modern versions)
+- Added live version @ https://rustandchill.net/mapvote.html
